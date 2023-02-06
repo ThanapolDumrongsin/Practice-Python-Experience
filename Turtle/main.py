@@ -8,10 +8,13 @@
 # print(my_screen.canvheight)
 # my_screen.exitonclick()
 
-from prettytable import PrettyTable
+# from prettytable import PrettyTable
 
-table = PrettyTable()
-table.add_column("Pokemon name" , ["1","2"])
-table.add_column("column2" , ["1","2"])
+# table = PrettyTable()
+# table.add_column("Pokemon name" , ["Chespin" , "Fennekin" , "Froakie"])
+# table.add_column("Type" , ["Grass" , "Fire" , "Water"])
+# table.align = "l"
+# print(table)
 
-print(table)
+print(4463557 / 30143)
+print(30143 /4463557 )
