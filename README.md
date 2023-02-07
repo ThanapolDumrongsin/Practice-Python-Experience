@@ -1,4 +1,4 @@
-# Practice-Python-Portfolio
+# Practice-Python-Experience
 # Hello my name is Thanapol Dumrongsin.
 # Graduated from Dusit Thani college, BBA culinary art and restaurant manegement.
 # Right now i'm interested in coding and AI.
